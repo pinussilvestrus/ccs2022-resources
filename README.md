@@ -1,6 +1,6 @@
 # ccs2022-resources
 
-Resources and examples from the talk ["Taking Templates to the Limit"](https://speakerdeck.com/pinussilvestrus/taking-templates-to-the-limit) at Camunda Community Summit 2022 (28th April).
+Resources and examples from the talk ["Taking Templates to the Limit"](https://page.camunda.com/ccs2022-camundatemplateswithjson) at Camunda Community Summit 2022 (28th April).
 
 ![Pizza party templates](./docs/screenshot.png)
 
