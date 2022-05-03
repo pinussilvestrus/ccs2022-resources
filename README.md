@@ -10,7 +10,7 @@ Find the resources of the talk
 
 * [Slides](./resources/slides.pdf)
 * [Pizza Party Element Templates](./resources/pizza-party.json)
-* Recording (*to follow*)
+* [Recording](https://page.camunda.com/ccs2022-camundatemplateswithjson)
 
 On top, some general resources about Camunda Element Templates
 
